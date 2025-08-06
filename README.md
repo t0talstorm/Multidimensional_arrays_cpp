@@ -20,7 +20,7 @@
 ```cpp
 int matrix[3][3];                    // Static 2D array
 int dynamicMatrix[rows][cols];       // Variable-length array 
-vector<vector<int>> stlMatrix;       // Dynamic 2D array using STL
+vector<vector<int>> stlMatrix;       // Dynamic 2D array using STL (Standard Template Library)
 ```
 
 ### Key Matrix Operations:
